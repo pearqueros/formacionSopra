@@ -31,11 +31,6 @@ public class Main {
 		System.out.println(relaciones.esMenor(relaciones2));
 		System.out.println(relaciones.esMayor(relaciones3));
 		System.out.println(relaciones.esMenor(relaciones3));
-	
-		
-		Object obj = new Integer(3);
-		String str = (String) obj;
-		System.out.println(str);}
 
 	}
 
